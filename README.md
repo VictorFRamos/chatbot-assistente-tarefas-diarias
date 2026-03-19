@@ -29,7 +29,7 @@ O assistente interpreta as mensagens do usuário e:
 
 ## 📁 Estrutura do Projeto
 
-chatbot-assistente/
+src/
 │── app.py          # Lógica principal do chatbot
 │── memory.py       # Gerenciamento de memória (tarefas)
 │── memory.json     # Armazenamento das tarefas (gerado automaticamente)
